@@ -218,13 +218,38 @@ If the GPU VRAM is not sufficient, metrics for evaluation can be adjusted to be 
 The calculation formula is as follows: latent_T_dim = (frame_T_dim - 1) / temporal_downsample_num;  in this model, temporal_downsample_num=4
 
 
-#### 1. encode & decode video
+#### Use AsymmetricMagVitV2 in your own code
 
+```python
+
+from models.vae import AsymmetricMagVitV2Pipline
+import torch
+from models.utils.image_op import imdenormalize, imnormalize, read_video, read_image
+import torchvision.transforms as transforms
+
+
+device = "cuda" if torch.cuda.is_available() else "cpu"
+dtype = torch.bfloat16
+encoder_init_window = 17
+input_path = "data/videos/tokyo_walk.mp4"
+img_transform = transforms.Compose([transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))])
+input, last_frame_id = read_video(input_path, encoder_init_window, sample_fps=8, img_transform, start=0)
+
+model = AsymmetricMagVitV2Pipline.from_pretrained("BornFly/AsymmetricMagVitV2_16z").to(device, dtype).eval()
+init_z, reg_log = model.encode(input, encoder_init_window, is_init_image=True, return_reg_log=True, unregularized=False)
+init_samples = model.decode(init_z.to(device, dtype), decode_batch_size=1, is_init_image=True)
+
+```
+
+#### High-resolution video encoding and decoding, greater than 720p（spatial-temporal slice）
+
+
+##### 1. encode & decode video
 ```shell
 python infer_vae.py --input_path data/videos/tokyo-walk.mp4 --model_path vae_16z_bf16_hf  --output_folder vae_eval_out/vae_4z_bf16_hf_videos > infer_vae_video.log 2>&1  
 ```
 
-#### 2. encode & decode image
+##### 2. encode & decode image
 
 ```shell
 python infer_vae.py --input_path data/images --model_path vae_16z_bf16_hf  --output_folder vae_eval_out/vae_4z_bf16_hf_images > infer_vae_image.log 2>&1  
