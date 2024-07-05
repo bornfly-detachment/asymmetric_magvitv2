@@ -13,35 +13,32 @@ Lightweight open-source reproduction of MagVitV2, fully aligned with the paperâ€
 ### 4 channel VAE video reconstruction
 
 #####  video reconstruction
+
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; padding-right: 5px;">
-    <a href="data/show/gif/vae_4z_bf16_sw_17_wukong.gif">
+    <a href="https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/81/23/500001606242381/500001606242381-1-192.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1720215217&gen=playurlv2&os=cosbv&oi=1385955528&trid=dfdcecbd67244616ba5d87d087fd174bO&mid=0&platform=html5&og=cos&upsig=22ecc0103f02d99f3b71d63876f90e0c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=1&orderid=0,3&buvid=&build=7330300&f=O_0_0&bw=70038&logo=80000000">
       <img src="data/show/gif/vae_4z_bf16_sw_17_wukong.gif" alt="60s 3840x2160" style="width: 100%; height: auto;">
     </a>
   </div>
   <div style="flex: 1; padding-left: 5px;">
-    <a href="data/show/gif/vae_4z_bf16_sw_17_tokyo_walk_h264_16s.gif">
+    <a href="https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/34/86/500001606228634/500001606228634-1-192.mp4?e=ig8euxZM2rNcNbRghWdVhwdlhWN1hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1720215268&gen=playurlv2&os=cosbv&oi=2584261250&trid=b9c2bd6cb8274f6bb7379d657de5d9e8O&mid=0&platform=html5&og=cos&upsig=c3b7842eea1adc4773ab675f2fcd5d21&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=1&orderid=0,3&buvid=&build=7330300&f=O_0_0&bw=121081&logo=80000000">
       <img src="data/show/gif/vae_4z_bf16_sw_17_tokyo_walk_h264_16s.gif" alt="60s 1920x1080" style="width: 100%; height: auto;">
     </a>
   </div>
 </div>
 
+
 * Converting MP4 to GIF may result in detail loss, pixelation, and incomplete duration. It is recommended to watch the original video for the best experience.
 
 ######  60s 3840x2160
 
-<video width="100%" height="auto" controls>
-  <source src="data/show/videos/vae_4z_sw_17_h264_add_audio.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[bilibili_Black Mythï¼šWu KongULR 4zVAE](https://www.bilibili.com/video/BV1mjaPe8EWn/?spm_id_from=333.999.0.0&vd_source=681432e843390b0f7192d64fa4ed9613)
+
 
 
 ######  60s 1920x1080
 
-<video width="100%" height="auto" controls>
-  <source src="data/show/videos/vae_4z_bf16_sw_17_tokyo_walk_h264.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[bilibili_tokyo_walk ULR 4zVAE](https://www.bilibili.com/video/BV1cCaceLEiq/?t=8.7&vd_source=681432e843390b0f7192d64fa4ed9613)
 
 
 
@@ -75,12 +72,12 @@ Lightweight open-source reproduction of MagVitV2, fully aligned with the paperâ€
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; padding-right: 5px;">
-    <a href="data/show/gif/vae_16z_bf16_sw_17_wukong.gif">
+    <a href="https://upos-sz-mirrorbd.bilivideo.com/upgcxcode/49/26/500001606242649/500001606242649-1-192.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1720214786&gen=playurlv2&os=bdbv&oi=2584261250&trid=bbf4c7694b334e96b66f466568155cfbO&mid=0&platform=html5&og=hw&upsig=1fb8442f381fb7d42fce1f234299118e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=1&orderid=0,3&buvid=&build=7330300&f=O_0_0&bw=71316&logo=80000000">
       <img src="data/show/gif/vae_16z_bf16_sw_17_wukong.gif" alt="60s 3840x2160" style="width: 100%; height: auto;">
     </a>
   </div>
   <div style="flex: 1; padding-left: 5px;">
-    <a href="data/show/gif/vae_16z_bf16_sw_17_tokyo_walk_h264_16s.gif">
+    <a href="https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/20/29/500001606242920/500001606242920-1-192.mp4?e=ig8euxZM2rNcNbRghwdVhwdlhWNVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1720214870&gen=playurlv2&os=cosbv&oi=2584261250&trid=19d089cf9c3c402c83d4608511c50f60O&mid=0&platform=html5&og=cos&upsig=faeda47e09a67f389cf8ec67c7e0c17c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=1&orderid=0,3&buvid=&build=7330300&f=O_0_0&bw=120172&logo=80000000">
       <img src="data/show/gif/vae_16z_bf16_sw_17_tokyo_walk_h264_16s.gif" alt="60s 1920x1080" style="width: 100%; height: auto;">
     </a>
   </div>
@@ -90,18 +87,11 @@ Lightweight open-source reproduction of MagVitV2, fully aligned with the paperâ€
 
 ######  60s 3840x2160
 
-<video width="100%" height="auto" controls>
-  <source src="data/show/videos/vae_16z_sw_17_wukong_h265_add_audio.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+[bilibili_Black Mythï¼šWu KongULR 16zVAE](https://www.bilibili.com/video/BV1ULaPecEga/?spm_id_from=333.999.0.0&vd_source=681432e843390b0f7192d64fa4ed9613)
 
 ######  60s 1920x1080
 
-<video width="100%" height="auto" controls>
-  <source src="data/show/videos/vvae_16z_bf16_sw_17_tokyo_walk_h264.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[bilibili_tokyo_walk ULR 16zVAE](https://www.bilibili.com/video/BV1mLaPecEXP/?spm_id_from=333.999.0.0&vd_source=681432e843390b0f7192d64fa4ed9613)
 
 
 ##### image reconstruction
