@@ -34,6 +34,8 @@ Lightweight open-source reproduction of MagVitV2, fully aligned with the paperâ€
 
 
 
+
+
 * Converting MP4 to GIF may result in detail loss, pixelation, and incomplete duration. It is recommended to watch the original video for the best experience.
 
 ######  60s 3840x2160
@@ -79,7 +81,7 @@ Lightweight open-source reproduction of MagVitV2, fully aligned with the paperâ€
 <table>
   <tr>
     <td width="50%">
-      <a href="https://upos-sz-mirrorbd.bilivideo.com/upgcxcode/49/26/500001606242649/500001606242649-1-192.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1720214786&gen=playurlv2&os=bdbv&oi=2584261250&trid=bbf4c7694b334e96b66f466568155cfbO&mid=0&platform=html5&og=hw&upsig=1fb8442f381fb7d42fce1f234299118e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=1&orderid=0,3&buvid=&build=7330300&f=O_0_0&bw=71316&logo=80000000">
+      <a href=https://upos-sz-mirrorbd.bilivideo.com/upgcxcode/49/26/500001606242649/500001606242649-1-192.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1720214786&gen=playurlv2&os=bdbv&oi=2584261250&trid=bbf4c7694b334e96b66f466568155cfbO&mid=0&platform=html5&og=hw&upsig=1fb8442f381fb7d42fce1f234299118e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=1&orderid=0,3&buvid=&build=7330300&f=O_0_0&bw=71316&logo=80000000>
         <img src="data/show/gif/vae_16z_bf16_sw_17_wukong.gif" alt="60s 3840x2160" style="width: 100%;">
       </a>
     </td>
