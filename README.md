@@ -31,19 +31,6 @@ Lightweight open-source reproduction of MagVitV2, fully aligned with the paperâ€
 </table>
 
 
-<iframe 
-src="" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
-
-
-
 * Converting MP4 to GIF may result in detail loss, pixelation, and incomplete duration. It is recommended to watch the original video for the best experience.
 
 ######  60s 3840x2160
