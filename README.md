@@ -18,13 +18,13 @@ Lightweight open-source reproduction of MagVitV2, fully aligned with the paperâ€
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github-production-user-asset-6210df.s3.amazonaws.com/174133722/346252347-2ec0bc1b-7a32-4949-a68f-d512bd4c5411.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240706%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240706T045606Z&X-Amz-Expires=300&X-Amz-Signature=1a67649f0e70c9928c7c11201d48a89d9205e39919e265bb95c3aaf24918d520&X-Amz-SignedHeaders=host&actor_id=174133722&key_id=0&repo_id=824684001">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/174133722/346252347-2ec0bc1b-7a32-4949-a68f-d512bd4c5411.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240706%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240706T045606Z&X-Amz-Expires=300&X-Amz-Signature=1a67649f0e70c9928c7c11201d48a89d9205e39919e265bb95c3aaf24918d520&X-Amz-SignedHeaders=host&actor_id=174133722&key_id=0&repo_id=824684001" alt="60s 3840x2160" style="width: 100%;">
+      <a href="https://github.com/bornfly-detachment/asymmetric_magvitv2/assets/174133722/2ec0bc1b-7a32-4949-a68f-d512bd4c5411">
+        <img src="data/images/rexp001w1161_Increase_the_size_of_the_Bornfly_letters_on_the_lo_e754c1fa-c69c-4cd2-baf0-a7dedb72b0f7.png" alt="60s 3840x2160" style="width: 100%;">
       </a>
     </td>
     <td width="50%">
-      <a href="https://github-production-user-asset-6210df.s3.amazonaws.com/174133722/346252007-c8df652d-e7b9-42ff-a554-1271d5a0bce1.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240706%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240706T045622Z&X-Amz-Expires=300&X-Amz-Signature=f7cc4b1d70ecd17bbf546e517593316cf098209bcf1950122e33a453252d8611&X-Amz-SignedHeaders=host&actor_id=174133722&key_id=0&repo_id=824684001">
-        <img src="data/show/gif/vae_4z_bf16_sw_17_tokyo_walk_h264_16s.gif" alt="60s 1920x1080" style="width: 100%;">
+      <a href="https://github.com/bornfly-detachment/asymmetric_magvitv2/assets/174133722/c8df652d-e7b9-42ff-a554-1271d5a0bce1">
+        <img src="data/images/rexp001w1161_Increase_the_size_of_the_Bornfly_letters_on_the_lo_e754c1fa-c69c-4cd2-baf0-a7dedb72b0f7.png" alt="60s 1920x1080" style="width: 100%;">
       </a>
     </td>
   </tr>
@@ -87,13 +87,13 @@ width=800>
 <table>
   <tr>
     <td width="50%">
-      <a href=https://github-production-user-asset-6210df.s3.amazonaws.com/174133722/346251680-3171ab29-b08d-496e-a6d1-7e8df43d7a58.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240706%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240706T044615Z&X-Amz-Expires=300&X-Amz-Signature=3a41c33246cf9170aa1de339e6fdc81cffe04c419553c90533df4a86a73940c1&X-Amz-SignedHeaders=host&actor_id=174133722&key_id=0&repo_id=824684001>
-        <img src="data/show/gif/vae_16z_bf16_sw_17_wukong.gif" alt="60s 3840x2160" style="width: 100%;">
+      <a href="https://github.com/bornfly-detachment/asymmetric_magvitv2/assets/174133722/3171ab29-b08d-496e-a6d1-7e8df43d7a58">
+        <img src="data/images/rexp001w1161_Increase_the_size_of_the_Bornfly_letters_on_the_lo_e754c1fa-c69c-4cd2-baf0-a7dedb72b0f7.png" alt="60s 3840x2160" style="width: 100%;">
       </a>
     </td>
     <td width="50%">
-      <a href="https://github-production-user-asset-6210df.s3.amazonaws.com/174133722/346252412-94339b50-4e1e-4b5a-ad90-d2ada288df4a.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240706%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240706T045727Z&X-Amz-Expires=300&X-Amz-Signature=e0de5eba0cc6b0f3b632edd71c640902a83463103824a357cd7dfa2e2c52a655&X-Amz-SignedHeaders=host&actor_id=174133722&key_id=0&repo_id=824684001">
-        <img src="data/show/gif/vae_16z_bf16_sw_17_tokyo_walk_h264_16s.gif" alt="60s 1920x1080" style="width: 100%;">
+      <a href="https://github.com/bornfly-detachment/asymmetric_magvitv2/assets/174133722/94339b50-4e1e-4b5a-ad90-d2ada288df4a">
+        <img src="data/images/rexp001w1161_Increase_the_size_of_the_Bornfly_letters_on_the_lo_e754c1fa-c69c-4cd2-baf0-a7dedb72b0f7.png" alt="60s 1920x1080" style="width: 100%;">
       </a>
     </td>
   </tr>
