@@ -19,12 +19,12 @@ Lightweight open-source reproduction of MagVitV2, fully aligned with the paperâ€
   <tr>
     <td width="50%">
       <a href="https://github.com/bornfly-detachment/asymmetric_magvitv2/assets/174133722/2ec0bc1b-7a32-4949-a68f-d512bd4c5411">
-        <img src="data/images/rexp001w1161_Increase_the_size_of_the_Bornfly_letters_on_the_lo_e754c1fa-c69c-4cd2-baf0-a7dedb72b0f7.png" alt="60s 3840x2160" style="width: 100%;">
+        <img src="https://github.com/bornfly-detachment/asymmetric_magvitv2/assets/174133722/2ec0bc1b-7a32-4949-a68f-d512bd4c5411" alt="60s 3840x2160" style="width: 100%;">
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/bornfly-detachment/asymmetric_magvitv2/assets/174133722/c8df652d-e7b9-42ff-a554-1271d5a0bce1">
-        <img src="data/images/rexp001w1161_Increase_the_size_of_the_Bornfly_letters_on_the_lo_e754c1fa-c69c-4cd2-baf0-a7dedb72b0f7.png" alt="60s 1920x1080" style="width: 100%;">
+        <img src="https://github.com/bornfly-detachment/asymmetric_magvitv2/assets/174133722/c8df652d-e7b9-42ff-a554-1271d5a0bce1" alt="60s 1920x1080" style="width: 100%;">
       </a>
     </td>
   </tr>
@@ -88,12 +88,12 @@ width=800>
   <tr>
     <td width="50%">
       <a href="https://github.com/bornfly-detachment/asymmetric_magvitv2/assets/174133722/3171ab29-b08d-496e-a6d1-7e8df43d7a58">
-        <img src="data/images/rexp001w1161_Increase_the_size_of_the_Bornfly_letters_on_the_lo_e754c1fa-c69c-4cd2-baf0-a7dedb72b0f7.png" alt="60s 3840x2160" style="width: 100%;">
+        <img src="https://github.com/bornfly-detachment/asymmetric_magvitv2/assets/174133722/3171ab29-b08d-496e-a6d1-7e8df43d7a58" alt="60s 3840x2160" style="width: 100%;">
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/bornfly-detachment/asymmetric_magvitv2/assets/174133722/94339b50-4e1e-4b5a-ad90-d2ada288df4a">
-        <img src="data/images/rexp001w1161_Increase_the_size_of_the_Bornfly_letters_on_the_lo_e754c1fa-c69c-4cd2-baf0-a7dedb72b0f7.png" alt="60s 1920x1080" style="width: 100%;">
+        <img src="https://github.com/bornfly-detachment/asymmetric_magvitv2/assets/174133722/94339b50-4e1e-4b5a-ad90-d2ada288df4a" alt="60s 1920x1080" style="width: 100%;">
       </a>
     </td>
   </tr>
