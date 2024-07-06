@@ -18,21 +18,29 @@ Lightweight open-source reproduction of MagVitV2, fully aligned with the paperâ€
 <table>
   <tr>
     <td width="50%">
-      <a href="https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/81/23/500001606242381/500001606242381-1-192.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1720215217&gen=playurlv2&os=cosbv&oi=1385955528&trid=dfdcecbd67244616ba5d87d087fd174bO&mid=0&platform=html5&og=cos&upsig=22ecc0103f02d99f3b71d63876f90e0c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=1&orderid=0,3&buvid=&build=7330300&f=O_0_0&bw=70038&logo=80000000">
-        <img src="data/show/gif/vae_4z_bf16_sw_17_wukong.gif" alt="60s 3840x2160" style="width: 100%;">
+      <a href="https://github-production-user-asset-6210df.s3.amazonaws.com/174133722/346252347-2ec0bc1b-7a32-4949-a68f-d512bd4c5411.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240706%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240706T045606Z&X-Amz-Expires=300&X-Amz-Signature=1a67649f0e70c9928c7c11201d48a89d9205e39919e265bb95c3aaf24918d520&X-Amz-SignedHeaders=host&actor_id=174133722&key_id=0&repo_id=824684001">
+        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/174133722/346252347-2ec0bc1b-7a32-4949-a68f-d512bd4c5411.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240706%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240706T045606Z&X-Amz-Expires=300&X-Amz-Signature=1a67649f0e70c9928c7c11201d48a89d9205e39919e265bb95c3aaf24918d520&X-Amz-SignedHeaders=host&actor_id=174133722&key_id=0&repo_id=824684001" alt="60s 3840x2160" style="width: 100%;">
       </a>
-      <p><a href="https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/81/23/500001606242381/500001606242381-1-192.mp4">Watch Video</a></p>
     </td>
     <td width="50%">
-      <a href="https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/34/86/500001606228634/500001606228634-1-192.mp4?e=ig8euxZM2rNcNbRghWdVhwdlhWN1hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1720215268&gen=playurlv2&os=cosbv&oi=2584261250&trid=b9c2bd6cb8274f6bb7379d657de5d9e8O&mid=0&platform=html5&og=cos&upsig=c3b7842eea1adc4773ab675f2fcd5d21&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=1&orderid=0,3&buvid=&build=7330300&f=O_0_0&bw=121081&logo=80000000">
+      <a href="https://github-production-user-asset-6210df.s3.amazonaws.com/174133722/346252007-c8df652d-e7b9-42ff-a554-1271d5a0bce1.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240706%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240706T045622Z&X-Amz-Expires=300&X-Amz-Signature=f7cc4b1d70ecd17bbf546e517593316cf098209bcf1950122e33a453252d8611&X-Amz-SignedHeaders=host&actor_id=174133722&key_id=0&repo_id=824684001">
         <img src="data/show/gif/vae_4z_bf16_sw_17_tokyo_walk_h264_16s.gif" alt="60s 1920x1080" style="width: 100%;">
       </a>
-      <p><a href="https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/34/86/500001606228634/500001606228634-1-192.mp4">Watch Video</a></p>
     </td>
   </tr>
 </table>
 
 
+<iframe 
+src="" 
+scrolling="no" 
+border="0" 
+frameborder="no" 
+framespacing="0" 
+allowfullscreen="true" 
+height=600 
+width=800> 
+</iframe>
 
 
 
@@ -73,20 +81,18 @@ Lightweight open-source reproduction of MagVitV2, fully aligned with the paperâ€
 * The original images are located in data/images
 
 
-
-
 ### 16 channel VAE image reconstruction
 
 
 <table>
   <tr>
     <td width="50%">
-      <a href=https://upos-sz-mirrorbd.bilivideo.com/upgcxcode/49/26/500001606242649/500001606242649-1-192.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1720214786&gen=playurlv2&os=bdbv&oi=2584261250&trid=bbf4c7694b334e96b66f466568155cfbO&mid=0&platform=html5&og=hw&upsig=1fb8442f381fb7d42fce1f234299118e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=1&orderid=0,3&buvid=&build=7330300&f=O_0_0&bw=71316&logo=80000000>
+      <a href=https://github-production-user-asset-6210df.s3.amazonaws.com/174133722/346251680-3171ab29-b08d-496e-a6d1-7e8df43d7a58.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240706%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240706T044615Z&X-Amz-Expires=300&X-Amz-Signature=3a41c33246cf9170aa1de339e6fdc81cffe04c419553c90533df4a86a73940c1&X-Amz-SignedHeaders=host&actor_id=174133722&key_id=0&repo_id=824684001>
         <img src="data/show/gif/vae_16z_bf16_sw_17_wukong.gif" alt="60s 3840x2160" style="width: 100%;">
       </a>
     </td>
     <td width="50%">
-      <a href="https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/20/29/500001606242920/500001606242920-1-192.mp4?e=ig8euxZM2rNcNbRghwdVhwdlhWNVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1720214870&gen=playurlv2&os=cosbv&oi=2584261250&trid=19d089cf9c3c402c83d4608511c50f60O&mid=0&platform=html5&og=cos&upsig=faeda47e09a67f389cf8ec67c7e0c17c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=1&orderid=0,3&buvid=&build=7330300&f=O_0_0&bw=120172&logo=80000000">
+      <a href="https://github-production-user-asset-6210df.s3.amazonaws.com/174133722/346252412-94339b50-4e1e-4b5a-ad90-d2ada288df4a.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240706%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240706T045727Z&X-Amz-Expires=300&X-Amz-Signature=e0de5eba0cc6b0f3b632edd71c640902a83463103824a357cd7dfa2e2c52a655&X-Amz-SignedHeaders=host&actor_id=174133722&key_id=0&repo_id=824684001">
         <img src="data/show/gif/vae_16z_bf16_sw_17_tokyo_walk_h264_16s.gif" alt="60s 1920x1080" style="width: 100%;">
       </a>
     </td>
