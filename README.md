@@ -7,6 +7,15 @@ Lightweight open-source reproduction of MagVitV2, fully aligned with the paperâ€
 * The model is closely aligned with MagVitV2 but with reduced parameter, particularly in the lightweight Encoder, reducing the burden of caching VAE features.
 
 
+## Contents
+
+- [Installation](#installation)
+- [Model Weights](#model-weights)
+- [Metric](#metric)
+- [Inference](#inference)
+- [TODO List](#1)
+- [Contact Us](#2)
+- [Reference](#3)
 
 ## Demo
 
@@ -119,15 +128,7 @@ Lightweight open-source reproduction of MagVitV2, fully aligned with the paperâ€
 </table>
 
 
-## Contents
 
-- [Installation](#installation)
-- [Model Weights](#model-weights)
-- [Metric](#metric)
-- [Inference](#inference)
-- [TODO List](#1)
-- [Contact Us](#2)
-- [Reference](#3)
 
 ### Installation
 
@@ -283,6 +284,7 @@ python infer_vae.py --input_path data/images --model_path vae_16z_bf16_hf  --out
 
 <p id="3"></p> 
 
+- SVD: https://github.com/Stability-AI/generative-models
 - Open-Sora-Plan: https://github.com/PKU-YuanGroup/Open-Sora-Plan
 - Open-Sora: https://github.com/hpcaitech/Open-Sora
-- SVD: https://github.com/Stability-AI/generative-models
+
