@@ -286,5 +286,4 @@ python infer_vae.py --input_path data/images --model_path vae_16z_bf16_hf  --out
 
 - SVD: https://github.com/Stability-AI/generative-models
 - Open-Sora-Plan: https://github.com/PKU-YuanGroup/Open-Sora-Plan
-- Open-Sora: https://github.com/hpcaitech/Open-Sora
 
