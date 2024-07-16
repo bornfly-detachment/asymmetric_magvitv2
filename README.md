@@ -23,6 +23,7 @@ Lightweight open-source reproduction of MagVitV2, fully aligned with the paperâ€
 
 #####  video reconstruction
 
+Original video &  VAE Reconstruction video
 
 <table>
   <tr>
@@ -167,8 +168,8 @@ pip3 install -r requirements/pt2.txt
 
 | model                  | Data         | #iterations | URL                                                                   |
 |------------------------|--------------|-------------|-----------------------------------------------------------------------|
-| AsymmetricMagVitV2_4z  |20M Intervid  | 2node 1200k | [AsymmetricMagVitV2_4z](https://huggingface.co/BornFlyReborn/AsymmetricMagVitV2_4z)  |
-| AsymmetricMagVitV2_16z |20M Intervid  | 4node 860k  | [AsymmetricMagVitV2_16z](https://huggingface.co/BornFlyReborn/AsymmetricMagVitV2_16z) |
+| AsymmetricMagVitV2_4z  |20M Intervid  | 2node 1200k | [AsymmetricMagVitV2_4z](https://huggingface.co/BornFly/AsymmetricMagVitV2_4z)  |
+| AsymmetricMagVitV2_16z |20M Intervid  | 4node 860k  | [AsymmetricMagVitV2_16z](https://huggingface.co/BornFly/AsymmetricMagVitV2_16z) |
 
 
 </details>
@@ -183,10 +184,10 @@ pip3 install -r requirements/pt2.txt
 |openSoraPlan|1 | 249.8     |1.04|29.6|0.99|
 |openSoraPlan|17 | 725.4     |3.17|23.4|0.89|
 |openSoraPlan|33 | 756.8     |3.5|23|0.89|
-|AsymmetricMagVitV2_4z|1 | 113.5     |1.4|29.8|1.0|
+|AsymmetricMagVitV2_4z|1 | **113.5**     |**1.4**|**29.8**|1.0|
 |AsymmetricMagVitV2_4z|17 | 278.5     |2.3|26.4|1.0|
 |AsymmetricMagVitV2_4z|33 | 293.3     |2.5|26.3|1.0|
-|AsymmetricMagVitV2_16z|1 | 106.7     |0.2|36.3|1.0|
+|AsymmetricMagVitV2_16z|1 | **106.7**     |**0.2**|**36.3**|1.0|
 |AsymmetricMagVitV2_16z|17 | 131.4     |0.8|30.7|1.0|
 |AsymmetricMagVitV2_16z|33 | 208.2     |1.4|28.9|1.0|
 
