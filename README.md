@@ -23,7 +23,7 @@ Lightweight open-source reproduction of MagVitV2, fully aligned with the paperâ€
 
 #####  video reconstruction
 
-Original video &  VAE Reconstruction video
+Original video (above) &  VAE Reconstruction video (below)
 
 <table>
   <tr>
