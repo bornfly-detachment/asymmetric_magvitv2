@@ -157,8 +157,6 @@ pip3 install -r requirements/pt2.txt
 
 ### Model Weights
 
-<details>
-<summary>View more</summary>
 
 | model | downsample (THW)         | Encoder Size | Decoder Size|
 |--------|--------|------|------|
