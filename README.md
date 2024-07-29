@@ -180,7 +180,7 @@ pip3 install -r requirements/pt2.txt
 
 <a name="Metric"></a>
 
-|model|temporal-frame| fvd       |fid|psnr|ssim|
+|model|temporal-frame| fvd(↓)       |fid(↓)|psnr(↑)|ssim(↑)|
 |-----|----|-----------|--|----|----|
 |SVD VAE|1 | 190.6  |1.8|28.2|1.0|
 |openSoraPlan|1 | 249.8     |1.04|29.6|0.99|
