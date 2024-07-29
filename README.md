@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="data/images/rexp001w1161_Increase_the_size_of_the_Bornfly_letters_on_the_lo_e754c1fa-c69c-4cd2-baf0-a7dedb72b0f7.png" width="250"/>
+</p>
+
 # AsymmetricMagVitV2
 Lightweight open-source reproduction of MagVitV2, fully aligned with the paper’s functionality. Supports image and video joint encoding and decoding, as well as videos of arbitrary length and resolution.
 
