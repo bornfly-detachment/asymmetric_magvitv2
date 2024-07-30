@@ -3,7 +3,7 @@ from typing import Tuple, Union
 import torch
 import torch.nn as nn
 from torch.nn import Module
-from MagvitV2_3DVAE.models.utils.util import (is_odd, cast_tuple)
+from models.utils.util import (is_odd, cast_tuple)
 from torch.utils.checkpoint import checkpoint
 import torch.nn.functional as F
 from collections import deque
